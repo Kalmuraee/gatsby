@@ -1,9 +1,9 @@
 {
   "devDependencies": {
-    "@babel/core": "^7.8.7",
+    "@babel/core": "^7.9.0",
     "@babel/node": "^7.8.7",
-    "@babel/plugin-transform-typescript": "^7.8.7",
-    "@babel/runtime": "^7.8.7",
+    "@babel/plugin-transform-typescript": "^7.9.0",
+    "@babel/runtime": "^7.9.2",
     "@lerna/prompt": "3.18.5",
     "@types/babel__code-frame": "^7.0.1",
     "@types/bluebird": "^3.5.30",
@@ -17,7 +17,7 @@
     "@types/lodash": "^4.14.149",
     "@types/node": "^12.12.30",
     "@types/stack-trace": "^0.0.29",
-    "@types/webpack": "^4.41.7",
+    "@types/webpack": "^4.41.8",
     "@typescript-eslint/eslint-plugin": "^2.24.0",
     "@typescript-eslint/parser": "^2.24.0",
     "babel-eslint": "^10.1.0",
